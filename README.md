@@ -88,6 +88,10 @@ discord-bot/
 │── bot.py
 │── requirements.txt
 │── .env.example
+│── README.mddiscord-bot/
+│── bot.py
+│── requirements.txt
+│── .env.example
 │── README.md
 
 ⚙️ Setup Guide
