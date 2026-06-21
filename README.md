@@ -115,4 +115,5 @@ Never expose your bot token
 🎌 Anime-themed commands
 
 👨‍💻 Author
-Made with ❤️ by Abhinav
+Made by Abhinav
+
