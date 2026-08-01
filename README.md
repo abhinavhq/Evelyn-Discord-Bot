@@ -20,7 +20,7 @@ $serverinfo → Server stats
 🧠 XP & Leveling
 Earn XP by chatting
 $rank → View your level
-$leaderboard → Top users
+$leaderboard → Top users  
 
 💰 Economy System
 Daily rewards 💸
